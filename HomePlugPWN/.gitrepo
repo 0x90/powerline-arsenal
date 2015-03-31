@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/sogeti-esec-lab/HomePlugPWN
+	branch = master
+	commit = 58873b3380960d05ef0bb4d5b5dbe1b6e9c1d782
+	parent = 05a6db5a33bde92fbc0e867d87d7bc98af905c48
+	cmdver = 0.2.0
